@@ -1,6 +1,5 @@
 # Machine Learning & Generative AI Colabs
 
-
 A collection of Google Colab notebooks for practicing Machine Learning, Deep Learning, and Generative AI concepts.
 
 This repository contains hands-on experiments, learning notebooks, and mini projects built while exploring AI and modern machine learning technologies.
